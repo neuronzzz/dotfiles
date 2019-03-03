@@ -1,5 +1,5 @@
 # $0 is the current shell script full path name or filename, basename is the filename of full path name
-echo "$(basename $0): welcome~⚽️"
+echo "$(basename $0): welcome ~ ⚽️"
 
 # Bash colour
 # export CLICOLOR=1
@@ -26,4 +26,4 @@ if [ -f ~/.bashrc ]; then
 	source ~/.bashrc
 fi
 
-echo "$(basename $0): byebye~⚾️"
+echo "$(basename $0): byebye ~ ⚾️"
