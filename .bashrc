@@ -1,4 +1,4 @@
-echo "$(basename $0): Welcome~"
+echo "$(basename $0): welcome~🏀"
 
 ### Ryan's <<Personal Tailor>> start ###
 
@@ -24,4 +24,4 @@ fi
 
 ### Ryan's <<Personal Tailor>> end ###
 
-echo "$(basename $0): Byebye~"
+echo "$(basename $0): byebye~🏈"

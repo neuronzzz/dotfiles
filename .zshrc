@@ -1,4 +1,4 @@
-echo ".zshrc: Welcome~"
+echo ".zshrc: welcome~🐙 & 🐰"
 # below code will cause an issue as the $0 is -zsh, for .bashrc and .bash_profile, $0 is the full path filename.
 # echo "$(basename $0): Welcome ~"
 
@@ -107,9 +107,8 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
+# Example aliases# alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-echo ".zshrc: Byebye~"
-echo 😋🍏🍎🍐🍊🍋🍉🍓🍈🍒🍑🥝🥑
+echo ".zshrc: byebye~ b(￣▽￣)o ψ（￣︶￣）↗"
+echo 😋 🍎🍊🍋🥝🥑
