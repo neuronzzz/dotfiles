@@ -6,6 +6,7 @@ alias lsg="ls | grep"
 alias llg="ll | grep"
 alias lag="la | grep"
 alias j="autojump"
+alias mv 
 
 if [[ "Apple_Terminal" == $TERM_PROGRAM ]]; then
 	ZSH_THEME="robbyrussell"
