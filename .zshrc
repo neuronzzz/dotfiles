@@ -4,13 +4,18 @@ echo ".zshrc: welcome ~ 🐙 & 🐰"
 
 ### Ryan's <<Personal Tailor>> start ###
 
+
 # source .bash_profile
 if [ -f ~/.bash_profile ]; then
 source ~/.bash_profile
 fi
 
+# zsh prompt customized
+#TODO
+
 # oh-my-zsh plugins
 plugins=(autojump brew git pip pyenv python sudo tmux)
+
 
 ### Ryan customized end ###
 
