@@ -5,6 +5,9 @@ echo "$(basename $0): welcome ~ ⚽️"
 # export CLICOLOR=1
 # export LSCOLORS=exfxcxdxbxegedabagacad
 
+# PATH for pip and pipenv
+export PATH=~/.local/bin:$PATH
+
 # Home Brew Mirror
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 

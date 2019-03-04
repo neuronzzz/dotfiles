@@ -5,8 +5,10 @@ echo "$(basename $0): welcome ~ 🏀"
 alias lsg="ls | grep"
 alias llg="ll | grep"
 alias lag="la | grep"
-alias j="autojump"
-alias mv 
+#alias mv
+#alias rm
+#alias ln
+#alias cp
 
 if [[ "Apple_Terminal" == $TERM_PROGRAM ]]; then
 	ZSH_THEME="robbyrussell"

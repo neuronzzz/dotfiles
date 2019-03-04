@@ -7,14 +7,14 @@ echo ".zshrc: welcome ~ 🐙 & 🐰"
 
 # source .bash_profile
 if [ -f ~/.bash_profile ]; then
-source ~/.bash_profile
+	source ~/.bash_profile
 fi
 
 # zsh prompt customized
 #TODO
 
 # oh-my-zsh plugins
-plugins=(autojump brew git pip pyenv python sudo tmux)
+plugins=(autojump brew git pip python sudo tmux)
 
 
 ### Ryan customized end ###
@@ -116,4 +116,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 echo ".zshrc: byebye ~ b(￣▽￣)o ψ（￣︶￣）↗"
-echo 😋 🍎🍊🍋🥝🥑
+# echo 😋 🍎🍊🍋🥝🥑
