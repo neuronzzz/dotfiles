@@ -20,6 +20,7 @@ elif [[ "iTerm.app" == $TERM_PROGRAM ]]; then
 
 	# This powerlevel9k theme is intalled via home brew, so it is not in ~/.oh-my-zsh/themes
 	source /usr/local/opt/powerlevel9k/powerlevel9k.zsh-theme
+	#ZSH_THEME="agnoster"
 else
 	ZSH_THEME="agnoster"
 fi
