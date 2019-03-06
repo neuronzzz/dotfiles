@@ -22,7 +22,7 @@ elif [[ "iTerm.app" == $TERM_PROGRAM ]]; then
 	source /usr/local/opt/powerlevel9k/powerlevel9k.zsh-theme
 	#ZSH_THEME="agnoster"
 else
-	ZSH_THEME="agnoster"
+	ZSH_THEME="robbyrussell"
 fi
 
 ### Ryan's <<Personal Tailor>> end ###
