@@ -14,7 +14,7 @@ fi
 # VIRTUAL_ENV_DISABLE_PROMPT=0
 
 # oh-my-zsh plugins
- plugins=(autojump brew git pip python sudo tmux)
+# plugins=(autojump brew git pip python sudo tmux)
 
 
 ### Ryan customized end ###
